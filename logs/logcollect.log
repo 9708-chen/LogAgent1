@@ -1,0 +1,21 @@
+2022/06/21 22:26:12.904 [D]  this is a test, my name is stu01
+2022/06/21 22:26:12.904 [D]  this is a trace, my name is stu02
+2022/06/21 22:26:12.904 [W]  this is a warn, my name is stu03
+2022/06/21 22:27:05.600 [W]  this is a warn, my name is stu03~
+2022/06/21 22:27:40.055 [D]  this is a test, my name is stu01~~
+2022/06/21 22:27:40.055 [D]  this is a trace, my name is stu02~~
+2022/06/21 22:27:40.055 [W]  this is a warn, my name is stu03~~2022/06/23 13:12:28.139 [D]  init success
+2022/06/23 13:12:28.139 [D]  load config success ,config:&{debug ../logs/logcollect.log 100 10.141.65.188:9092 [{../logs/logcollect.log nginxLog}]}
+2022/06/23 13:12:28.139 [D]  init tailf success
+2022/06/23 13:12:28.141 [D]  init kakfa  successed
+2022/06/23 13:12:28.141 [D]  init all successed
+2022/06/23 13:12:28.141 [D]  test for logger 10 
+2022/06/23 13:12:28.152 [D]  test for logger 11 
+2022/06/23 13:12:28.162 [D]  test for logger 12 
+2022/06/23 13:12:28.174 [D]  test for logger 13 
+2022/06/23 13:12:28.184 [D]  test for logger 14 
+2022/06/23 13:12:28.194 [D]  test for logger 15 
+2022/06/23 13:12:28.204 [D]  test for logger 16 
+2022/06/23 13:12:28.215 [D]  test for logger 17 
+2022/06/23 13:12:28.225 [D]  test for logger 18 
+2022/06/23 13:12:28.235 [D]  test for logger 19 
